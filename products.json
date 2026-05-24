@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "update_time": "2026-01-15",
+  "update_time": "2026-05-25",
   "products": [
     {"name": "烤椰拿铁", "price": 11.2, "tag": "饮料"},
     {"name": "风华琥珀", "price": 12.2, "tag": "饮料"},
